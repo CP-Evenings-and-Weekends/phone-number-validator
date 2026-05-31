@@ -17,3 +17,5 @@ The main function you write should be decorated with a function called `input_va
 
 
 Bonus: Write another function that is also decorated with `input_validator`.  Instead of returning a formatted phone number, it extracts the area code, and returns the corresponding state.  You can try to read in the .json file, or simply copy it over and use it as a dictionary.
+
+> Stuck? Have a code error? Use the ["4 Before Me"](https://docs.google.com/document/d/1nseOs5oabYBKNHfwJZNAR7GlU0zkZxNagsw63AD7XV0/edit) debugging checklist to help you solve it!
